@@ -17,8 +17,8 @@ This script automates the extraction of financial data from a stock analysis web
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/stock-scraper.git
-   cd stock-scraper
+   git clone https://github.com/GustavoVaradi/StockDataScraper.git
+   cd StockDataScraper
    ```
 2. Install dependencies:
    ```sh
